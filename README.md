@@ -1,4 +1,4 @@
-!(Todo)[https://github.com/KaashDev/todo/blob/main/todo.png?raw=true]
+![Todo](https://github.com/KaashDev/todo/blob/main/todo.png?raw=true)
 
 A simple Todo list application built with HTML, CSS, and JavaScript, designed to help you keep track of tasks efficiently.
 Tasks are stored in localStorage, so your todos remain saved even after refreshing the page.
